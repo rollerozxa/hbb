@@ -1,5 +1,5 @@
 1
 Master server
-rollerozxa.github.io
+https://rollerozxa.github.io
 /hbb/listv036.txt
 /hbb/
